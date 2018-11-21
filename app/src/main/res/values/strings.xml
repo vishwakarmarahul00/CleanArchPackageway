@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidCleanArchitectureWithMVP</string>
+    <string name="home">Home</string>
+    <string name="appdetail">App DashBoard</string>
+    <string name="fruits">Fruits</string>
+    <string name="cheeses">Cheeses</string>
+    <string name="sweets">Sweets</string>
+    <string name="get">Get</string>
+    <string name="login_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="something_went_wrong">Some Thing Went Wrong</string>
+
+    <string name="donotblanks">Don\'t blank field</string>
+
+    <string name="error_no_network">There is some connectivity issue. Please check your network connection and try again or call us at the customer service number listed on your debit card.</string>
+    <string name="certificate_not_trust">Unexpected error encountered. Please try again later or call us at the customer service number listed on your debit card.</string>
+    <string name="no_connection_error">Unable to connect to server. Please try again later or call us at the customer service number listed on your debit card.</string>
+    <string name="server_failure">The server is currently down. Please try again later or call us at the customer service number listed on your debit card.</string>
+
+</resources>
